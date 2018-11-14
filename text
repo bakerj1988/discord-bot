@@ -1,6 +1,0 @@
-const { LineBot } = require('bottender');
-
-const bot = new LineBot({
-  channelSecret: '5a1e7f025cb3b7ac71dbd9fcfb0f57dd',
-  accessToken: ' JaT9T0D4aU7IdwAO77dLeLw08RoXceJ8lwNJY1j8KZUYqPtXJfLU9Bx9AWh2fhe0qBWDd3i1afnecP39BCRDyQGJ9l7XpUD3kUHE6igzqdMCScATJbzmfbjyPWpcv03u2ANCW+29PCaj66z17nxhkAdB04t89/1O/w1cDnyilFU= ',
-});
